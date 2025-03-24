@@ -2,7 +2,8 @@
 
 # Judo Martial Arts Web Page 🥋
 
-![Judo Banner](https://via.placeholder.com/1200x400.png?text=Judo+Academy+-+Discipline+%7C+Respect+%7C+Excellence)
+![Judo Banner](![Banner Dobu](https://github.com/user-attachments/assets/af475025-43c3-4758-9c9e-b9b7bd9de9a5)
+)
 
 A static website for a Judo academy featuring multiple pages with dedicated styling. A School project solely for front end.
 
