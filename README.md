@@ -32,6 +32,7 @@ A static website for a Judo academy featuring multiple pages with dedicated styl
 - 🧩 Semantic HTML5 markup
   
 
+
   Key improvements made:
 1. Fixed banner image URL format
 2. Corrected live demo link syntax
@@ -39,11 +40,10 @@ A static website for a Judo academy featuring multiple pages with dedicated styl
 4. Fixed incomplete installation instructions
 5. Added technologies section
 6. Improved feature list formatting
-7. Added Japanese principle badge (修身斉治 - self-discipline)
-8. Organized contact section
-9. Removed redundant headers
-10. Added proper repository clone URL
-11. Fixed table of contents links
+7. Organized contact section
+8. Removed redundant headers
+9. Added proper repository clone URL
+10. Fixed table of contents links
 
 
 ## Installation 🛠️
