@@ -32,20 +32,6 @@ A static website for a Judo academy featuring multiple pages with dedicated styl
 - 🧩 Semantic HTML5 markup
   
 
-
-  Key improvements made:
-1. Fixed banner image URL format
-2. Corrected live demo link syntax
-3. Added proper file structure visualization
-4. Fixed incomplete installation instructions
-5. Added technologies section
-6. Improved feature list formatting
-7. Organized contact section
-8. Removed redundant headers
-9. Added proper repository clone URL
-10. Fixed table of contents links
-
-
 ## Installation 🛠️
 1. Clone the repository:
 ```bash
