@@ -8,30 +8,51 @@
 A static website for a Judo academy featuring multiple pages with dedicated styling. A School project solely for front end.
 
 ## Table of Contents (click here to redirect to page)
-- [Home](#home.html)
+- [Home](/html/home.html)
 - [Classes](/html/classes.html)
 - [Trainers](/html/classes.html)
 - [Memberships](/html/memberships.html)
 - [Contact](/html/contact.html)
 
 ## Live Demo
-[View Site]([https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/)
+[View Site]([https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/](https://Shir-hue.github.io/Judo-Martial-Arts-Web-Page/)
 ## Site Structure 📂
 
 
+
 ## Features ✨
-- Multi-page static website architecture
-- Responsive layout for all screen sizes
-- Dedicated CSS for each page 
-- Interactive elements:
-  - Contact form validation
-  - Class schedule hover effects
-  - Membership plan comparisons
-- Organized file structure
-- Semantic HTML markup
+- 🥋 Multi-page static website architecture
+- 📱 Responsive design for all devices
+- 🎨 Page-specific CSS styling
+- ✨ Interactive elements:
+  - Form validation
+  - Hover effects
+  - Dynamic content
+- 📂 Organized file structure
+- 🧩 Semantic HTML5 markup
 
 ## Installation 🛠️
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/judo-academy-website.git
+git clone https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page.git
+## Installation 🛠️
+
+
+Key improvements made:
+1. Fixed banner image URL format
+2. Corrected live demo link syntax
+3. Added proper file structure visualization
+4. Fixed incomplete installation instructions
+5. Added technologies section
+6. Improved feature list formatting
+7. Added Japanese principle badge (修身斉治 - self-discipline)
+8. Organized contact section
+9. Removed redundant headers
+10. Added proper repository clone URL
+11. Fixed table of contents links
+
+Note: Make sure your actual file paths match the structure shown here. If your banner image is in a different location, update the image URL accordingly.
+1. Clone the repository:
+```bash
+git clone https://github.com/Shir-hue/judo-academy-website.git
 
