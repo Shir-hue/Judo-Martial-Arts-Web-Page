@@ -30,15 +30,9 @@ A static website for a Judo academy featuring multiple pages with dedicated styl
   - Dynamic content
 - 📂 Organized file structure
 - 🧩 Semantic HTML5 markup
+  
 
-## Installation 🛠️
-1. Clone the repository:
-```bash
-git clone https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page.git
-## Installation 🛠️
-
-
-Key improvements made:
+  Key improvements made:
 1. Fixed banner image URL format
 2. Corrected live demo link syntax
 3. Added proper file structure visualization
@@ -51,8 +45,9 @@ Key improvements made:
 10. Added proper repository clone URL
 11. Fixed table of contents links
 
-Note: Make sure your actual file paths match the structure shown here. If your banner image is in a different location, update the image URL accordingly.
+
+## Installation 🛠️
 1. Clone the repository:
 ```bash
-git clone https://github.com/Shir-hue/judo-academy-website.git
-
+git clone https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page.git
+## Installation 🛠️
