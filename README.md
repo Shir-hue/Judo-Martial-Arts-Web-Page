@@ -15,7 +15,7 @@ A static website for a Judo academy featuring multiple pages with dedicated styl
 - [Contact](/html/contact.html)
 
 ## Live Demo
-[View Site]([https://your-username.github.io/judo-academy-website/](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/home)
+[View Site]([https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/)
 ## Site Structure 📂
 
 
