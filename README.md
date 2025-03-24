@@ -7,14 +7,14 @@
 
 A static website for a Judo academy featuring multiple pages with dedicated styling. A School project solely for front end.
 
-## Table of Contents
+## Table of Contents (click here to redirect to page)
 - [Home Page](/html/home.html)
 - [Classes](/html/classes.html)
 - [Trainers](/html/classes.html)
 - [Memberships](/html/memberships.html)
 - [Contact](/html/contact.html)
 
-## Live Demo (click here to redirect to page and add "home" after the last "/" at the top search)
+## Live Demo
 [View Site]([https://your-username.github.io/judo-academy-website/](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/home)
 ## Site Structure 📂
 
