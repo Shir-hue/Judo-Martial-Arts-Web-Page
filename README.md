@@ -1,5 +1,3 @@
-# Judo-Martial-Arts-Web-Page
-
 # Judo Martial Arts Web Page 🥋
 
 ![Judo Banner](![Banner Dobu](https://github.com/user-attachments/assets/af475025-43c3-4758-9c9e-b9b7bd9de9a5)
