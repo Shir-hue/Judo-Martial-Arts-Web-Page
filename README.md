@@ -8,7 +8,7 @@
 A static website for a Judo academy featuring multiple pages with dedicated styling. A School project solely for front end.
 
 ## Table of Contents (click here to redirect to page)
-- [Home Page](/html/home.html)
+- [Home](#home.html)
 - [Classes](/html/classes.html)
 - [Trainers](/html/classes.html)
 - [Memberships](/html/memberships.html)
