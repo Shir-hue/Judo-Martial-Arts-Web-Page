@@ -5,7 +5,7 @@
 ### *A responsive, multi-page static web application built to simulate a martial arts organization*
 
 **Showcasing front-end development mastery with HTML5, CSS3, and vanilla JavaScript**  
-*Developed as part of an academic capstone in Software Engineering*
+*Developed as part of an academic project in Software Engineering*
 
 ![DoBu Martial Arts Banner](https://github.com/user-attachments/assets/af475025-43c3-4758-9c9e-b9b7bd9de9a5)
 
