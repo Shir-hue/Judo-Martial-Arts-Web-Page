@@ -57,13 +57,9 @@ Open any of the .html files located in the /html/ directory using your browser.
 
  **Tools & Technologies**
 HTML5
-
 CSS3
-
 JavaScript (ES6+)
-
 Git & GitHub
-
 GitHub Pages (Deployment)
 
 
