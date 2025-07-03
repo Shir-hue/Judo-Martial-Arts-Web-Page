@@ -1,4 +1,7 @@
-# 🥋 Judo Martial Arts Web Application
+okay dont change anything in this. just change it to be more beautiful:
+
+
+"# 🥋 Judo Martial Arts Web Application
 A responsive, multi-page static web application built to simulate a Judo Martial Arts organization. This project showcases the application of front-end development skills using HTML5, CSS3, and vanilla JavaScript. It was developed as part of an academic capstone in Software Engineering.
 
 ![Judo Banner](![Banner Dobu](https://github.com/user-attachments/assets/af475025-43c3-4758-9c9e-b9b7bd9de9a5)
@@ -70,7 +73,13 @@ GitHub Pages (Deployment)
 📜 **License**
 This project was developed strictly for academic and educational purposes. It is not intended for commercial use.
 
-👤 **Author**
-Percival Santiago Ignacio
-Software Engineering Student
-[GitHub Profile](https://github.com/settings/profile)
+## 👤 **Author**
+
+**Percival Santiago Ignacio**  
+*Software Engineering Student*
+
+**⭐ If you found this project helpful, please consider giving it a star!**
+
+**🔗 [Live Demo](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/) | [Repository](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page)**
+
+"
