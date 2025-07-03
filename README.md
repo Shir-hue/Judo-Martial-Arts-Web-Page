@@ -57,20 +57,20 @@ Open any of the .html files located in the /html/ directory using your browser.
 
  **Tools & Technologies**
 HTML5
-
 CSS3
-
 JavaScript (ES6+)
-
 Git & GitHub
-
 GitHub Pages (Deployment)
 
 
 📜 **License**
 This project was developed strictly for academic and educational purposes. It is not intended for commercial use.
 
-👤 **Author**
-Percival Santiago Ignacio
-Software Engineering Student
-[GitHub Profile](https://github.com/settings/profile)
+## 👤 **Author**
+
+**Percival Santiago Ignacio**  
+*Software Engineering Student*
+
+**⭐ If you found this project helpful, please consider giving it a star!**
+
+**🔗 [Live Demo](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/) | [Repository](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page)**
