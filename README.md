@@ -1,60 +1,72 @@
-# Judo Martial Arts Web Page 🥋
+# 🥋 Judo Martial Arts Web Application
+A responsive, multi-page static web application built to simulate a Judo Martial Arts organization. This project showcases the application of front-end development skills using HTML5, CSS3, and vanilla JavaScript. It was developed as part of an academic capstone in Software Engineering.
 
 ![Judo Banner](![Banner Dobu](https://github.com/user-attachments/assets/af475025-43c3-4758-9c9e-b9b7bd9de9a5)
 )
 
-A static website for a Judo Martial Arts Web featuring multiple pages with dedicated styling. 
+**Overview**
+This project was created to demonstrate my understanding of fundamental web development practices. Built without the use of front-end frameworks such as Bootstrap, the focus was placed on manual implementation of layout, styling, and interactivity—providing a deeper learning experience in core web technologies.
 
-## Project Journey 🌱
-This website represents my first major foray into web development as part of my school curriculum. When I began this project:
-- I started with minimal coding experience
-- Focused exclusively on front-end fundamentals (HTML/CSS/JS)
-- Learned through hands-on implementation
-- Developed problem-solving skills through trial and error
-- Refrained from using bootstrap for better experience
-- Finished project Nov,2024.. March, 2025 GitHub publication with version control implementation
-
-As my first full-scale frontend project, this represents both my technical growth and dedication to continuous learning. While reflecting my early-stage capabilities, it fuels my ambition to develop more complex applications using modern stacks like React/Tailwind in my future projects.
-Though this is an early academic project, it marks my significant progress in my technical abilities. I'm excited to continue growing as a developer and create more sophisticated applications in the future!
+🎯 **Objectives**
+- Develop a functional, multi-page website using only HTML, CSS, and JavaScript
+- Design a professional UI with responsive behavior across devices
+- Implement interactive elements without relying on external libraries
+- Practice real-world project organization, version control, and GitHub deployment
 
 
-## Table of Contents
-- [Live Demo](#live-demo)
-- [Project Purpose](#project-purpose-🎯)
-- [Site Structure](#site-structure-📂)
-- [Features](#features-✨)
-- [Installation](#installation-🛠️)
-- [Technologies Used](#technologies-used-🔧)
-- [License](#license-📜)
-- [Contact](#contact-📞)
+🌐 **Live Demo**
+Deployed on GitHub Pages:
+🔗 https://shir-hue.github.io/Judo-Martial-Arts-Web-Page
 
-## Table of Contents (pages, click to redirect to page/code)
-- [Home](/html/home.html)
-- [Classes](/html/classes.html)
-- [Trainers](/html/classes.html)
-- [Memberships](/html/memberships.html)
-- [Contact](/html/contact.html)
+🗂 **Site Structure**
+The website consists of five main sections:
 
-## Live Demo
-[View Site]([https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/](https://Shir-hue.github.io/Judo-Martial-Arts-Web-Page/)
-## Site Structure 📂
+/html/home.html — Landing Page
+/html/classes.html — Overview of Judo Programs
+/html/trainers.html — Instructor Profiles
+/html/memberships.html — Membership Plans
+/html/contact.html — Contact Form and Location Details
+
+   **Key Features**
+- Clean, semantic HTML structure for readability and accessibility
+- Page-specific CSS styling for modular visual design
+- Responsive layout across desktop, tablet, and mobile views
+- Vanilla JavaScript for interactivity and client-side validation
+- Organized project structure for scalability and maintenance
+- No external frameworks (e.g., Bootstrap), all components built manually
 
 
 
-## Features ✨
-- 🥋 Multi-page static website architecture
-- 📱 Responsive design for all devices
-- 🎨 Page-specific CSS styling
-- ✨ Interactive elements:
-  - Form validation
-  - Hover effects
-  - Dynamic content
-- 📂 Organized file structure
-- 🧩 Semantic HTML5 markup
-  
+🛠️ **Getting Started**
+Prerequisites
+A modern web browser (Chrome, Firefox, Edge, etc.)
 
-## Installation 🛠️
-1. Clone the repository:
+Git (optional, for cloning the repository)
+
+Installation
+To run the project locally:
+
 ```bash
 git clone https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page.git
-## Installation 🛠️
+cd Judo-Martial-Arts-Web-Page
+```
+Open any of the .html files located in the /html/ directory using your browser.
+
+ **Tools & Technologies**
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+Git & GitHub
+
+GitHub Pages (Deployment)
+
+📜 **License**
+This project was developed strictly for academic and educational purposes. It is not intended for commercial use.
+
+👤 **Author**
+Percival Santiago Ignacio
+Software Engineering Student
+[GitHub Profile](https://github.com/settings/profile)
