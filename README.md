@@ -16,7 +16,7 @@ This project was created to demonstrate my understanding of fundamental web deve
 
 🌐 **Live Demo**
 Deployed on GitHub Pages:
-🔗 https://shir-hue.github.io/Judo-Martial-Arts-Web-Page
+🔗 [https://shir-hue.github.io/Judo-Martial-Arts-Web-Page](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/index.html)
 
 
 🗂 **Site Structure**
@@ -73,4 +73,4 @@ This project was developed strictly for academic and educational purposes. It is
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 
-**🔗 [Live Demo](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/) | [Repository](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page)**
+**🔗 [Live Demo](https://shir-hue.github.io/Judo-Martial-Arts-Web-Page/index.html) | [Repository](https://github.com/Shir-hue/Judo-Martial-Arts-Web-Page)**
