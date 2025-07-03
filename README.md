@@ -18,14 +18,16 @@ This project was created to demonstrate my understanding of fundamental web deve
 Deployed on GitHub Pages:
 🔗 https://shir-hue.github.io/Judo-Martial-Arts-Web-Page
 
+
 🗂 **Site Structure**
 The website consists of five main sections:
 
-/html/home.html — Landing Page
-/html/classes.html — Overview of Judo Programs
-/html/trainers.html — Instructor Profiles
-/html/memberships.html — Membership Plans
-/html/contact.html — Contact Form and Location Details
+/html/home.html — Landing Page <br>
+/html/classes.html — Overview of Judo Programs <br>
+/html/trainers.html — Instructor Profiles <br>
+/html/memberships.html — Membership Plans <br>
+/html/contact.html — Contact Form and Location Details <br>
+
 
    **Key Features**
 - Clean, semantic HTML structure for readability and accessibility
@@ -52,6 +54,7 @@ cd Judo-Martial-Arts-Web-Page
 ```
 Open any of the .html files located in the /html/ directory using your browser.
 
+
  **Tools & Technologies**
 HTML5
 
@@ -62,6 +65,7 @@ JavaScript (ES6+)
 Git & GitHub
 
 GitHub Pages (Deployment)
+
 
 📜 **License**
 This project was developed strictly for academic and educational purposes. It is not intended for commercial use.
